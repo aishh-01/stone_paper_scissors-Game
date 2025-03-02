@@ -1,3 +1,9 @@
+window.onload = function(){
+    console.log("JS loaded!");
+};
+
+
+
 let user_score=0;
 let comp_score=0;
 
